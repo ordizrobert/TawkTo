@@ -1,0 +1,6 @@
+framework module Pods_TawkTo {
+  umbrella header "Pods-TawkTo-umbrella.h"
+
+  export *
+  module * { export * }
+}
